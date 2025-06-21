@@ -2,14 +2,15 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: mranderson
-display_name: Mr. Anderson
+display_name: Sukaina Alkhalidy
 position: The One
 bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: sukaina13
+facebook_username: sugar_toto
+twitter_username: Horse_lover
+instagram_username: s3.kr
+linkedin_username:  Sukaina Alkhalidy
+
+medium_username: none
 ---
 
