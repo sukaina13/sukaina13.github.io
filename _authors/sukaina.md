@@ -1,17 +1,22 @@
 ---
-layout: author
-photo: /assets/img/uploads/profile.png
-name: Sukaina
-display_name: Sukaina Alkhalidy
-position: The One
-bio:  Passionate data scientist and statistics student at MSU. Skilled in Python, R, and machine learning. I love riding horses and bringing data to life with visual storytelling.
-
-github_username: sukaina13
-facebook_username: sugar_toto
-twitter_username: Horse_lover
-instagram_username: s3.kr
-linkedin_username: sukaina-alkhalidy
-
-medium_username: none
+layout: page
+title: "Favorite Article"
+permalink: /favorite/
 ---
 
+# Tell Me What Article Was Your Favorite 💬
+
+I’d love to hear what you enjoyed the most!  
+Please use the form below to let me know which article stood out to you.
+
+<form action="https://formspree.io/f/mpwrjnyb" method="POST">
+  <label for="email">Your email:</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="message">Your favorite article or feedback:</label><br>
+  <textarea id="message" name="message" rows="6" cols="40" required></textarea><br><br>
+
+  <button type="submit">Submit</button>
+</form>
+
+<p>Thank you for sharing your thoughts! 🌟</p>
