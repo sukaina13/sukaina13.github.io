@@ -1,10 +1,9 @@
 <nav id="menu-panel" class="menu">
   <h2>Menu</h2>
   <ul>
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/about' | relative_url }}">About</a></li>
-    <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
-    <li><a href="{{ '/favorite' | relative_url }}">Favorite Article</a></li>
+    {% for item in site.data.navigation %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
   </ul>
 </nav>
 
